@@ -1,0 +1,16 @@
+{
+    "env": {
+        "DB_USER": "me",
+        "DB_PASSWORD": "EMxO2dI30Brp4H5U",
+        "DB_NAME": "meDB",
+        "SK": "dasd79asd96s89s989D56s9SD99sdas9d8sa0d0",
+        "SKT": "1d",
+        "CLOUD_NAME": "meapp",
+        "API_KEY": "764881722132242",
+        "API_SECRET": "dDasV1GrQ2cixk9h-_398hSORMI",
+        "UPLOAD_PRESET": "meapp",
+        "USER_COLLECTION_NAME": "me_cls",
+        "UPLOADS_COLLECTION_NAME": "me_dp_uploads",
+        "EVENTS_COLLECTION_NAME": "events_cls"
+    }
+}

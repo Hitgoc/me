@@ -1,0 +1,23 @@
+.dp {
+  height: 120px;
+  width: 120px;
+  margin: auto;
+  border-radius: 50% 50% 50% 50%;
+  background-size: cover;
+  box-shadow: 1px 3px 7px #999;
+}
+
+#dp {
+  background-size: cover;
+}
+
+#spinner {
+  display: flex;
+  justify-content: center;
+  padding-top: 46.5px;
+  padding-right: 3.5px;
+}
+
+#defaultImg {
+  background-size: contain;
+}

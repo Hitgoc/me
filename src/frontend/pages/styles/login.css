@@ -1,0 +1,16 @@
+.form-body {
+    display: grid;
+    justify-content: center;
+  }
+  
+  .container {
+    width: 500px;
+    margin: auto;
+  }
+  
+  @media (max-width: 500px) {
+    .container {
+      width: 350px;
+    }
+  }
+  
